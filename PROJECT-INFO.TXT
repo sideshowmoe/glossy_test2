@@ -1,0 +1,14 @@
+Name: Glossy
+Contact: Federico Ferrari <ferrari@tik.ee.ethz.ch>
+URL: http://www.tik.ee.ethz.ch/~ferrarif
+License: BSD http://www.opensource.org/licenses/bsd-license.php
+Screenshot: 
+Contiki version: CVS 2010-04-12
+Intended platforms: Tmote Sky
+Tested platforms: Tmote Sky
+Description:
+Glossy is an efficient flooding architecture for wireless sensor networks
+that was published at ACM/IEEE IPSN '11.
+The source code includes a simple application that periodically floods a
+packet and prints related statistics. 
+Documentation is available at http://contikiprojects.svn.sourceforge.net/viewvc/contikiprojects/ethz.ch/glossy/doc/html/index.html
